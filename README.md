@@ -6,7 +6,7 @@ This is the repository of Covid forecasting using deep learning methods:The COVI
 The data used for the research is under the Datasets folder. It contains the data for the three countries(India,Russia,Brazil) the models were trained on.
 
 # Transformer Architecture
-![](Images/architecture.png)
+![](Images/fig1.png)
 
 # Results
 ![](Images/forecasting.png)
